@@ -60,7 +60,7 @@ Example using more than one group `--filetypes "images,documents"`
 
 ## Other Notes
 
-### Visited Log - sitemap
+### Logs
 A list of the crawled/visited URLs will be stored a text file `crawled.txt` in the `logs` sub-directory of the target URL.
 
 ### File Naming
